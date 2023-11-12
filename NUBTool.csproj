@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Description>NUBTool - Namco nuSound Archive Utility</Description>
+    <Copyright>Copyright © 2023 XyLe. All Rights Reserved.</Copyright>
+    <AssemblyVersion>1.0.2320.1112</AssemblyVersion>
+    <FileVersion>1.0.2320.1112</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NAudio" Version="2.2.1" />
+    <PackageReference Include="SoxSharp" Version="1.3.5" />
+  </ItemGroup>
+
+</Project>
