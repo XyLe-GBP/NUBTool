@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.Text;
 using static NUBTool.Common;
 using static NUBTool.Common.Generic;
+using System.ComponentModel;
 
 namespace NUBTool
 {
@@ -52,6 +53,7 @@ namespace NUBTool
             }
         }
 
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         public string LoopStartLabel
         {
             get
@@ -72,6 +74,7 @@ namespace NUBTool
             }
         }
 
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         public string LoopEndLabel
         {
             get
@@ -108,6 +111,7 @@ namespace NUBTool
             }
         }
 
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         public int[] BufferLoopPosition
         {
             get

@@ -1,4 +1,5 @@
 ﻿using static NUBTool.Common;
+using System.ComponentModel;
 
 namespace NUBTool
 {
@@ -60,6 +61,7 @@ namespace NUBTool
             progressBar1.MarqueeAnimationSpeed = 25;
         }
 
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         public string ProgressMsg
         {
             set
