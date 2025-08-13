@@ -111,7 +111,7 @@ namespace NUBTool
                 }
                 if (!File.Exists(Directory.GetCurrentDirectory() + @"\res\SoX\wget.ini"))
                 {
-                    MessageBox.Show("SoX library 'wget.ini' could not be found.\r\nProblems may occur during processing operations.", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("File 'wget.ini' could not be found.\r\nProblems may occur during processing operations.", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
 
 
