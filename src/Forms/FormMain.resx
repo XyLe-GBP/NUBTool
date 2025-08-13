@@ -1,0 +1,1480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema 
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label_nos.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label_Openhere.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 24pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;aboutAToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;openOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;fileFToolStripMenuItem.Name" xml:space="preserve">
+    <value>fileFToolStripMenuItem</value>
+  </data>
+  <data name="label_Volume_Info.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;helpHToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_CustomVolHex.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="label_id.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_CustomVol.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_NoInfo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>216, 37</value>
+  </data>
+  <data name="label_Samplerate_Info.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="label_Channel_Info.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="exitXToolStripMenuItem.Text" xml:space="preserve">
+    <value>Exit (&amp;X)</value>
+  </data>
+  <data name="comboBox_version.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;button_Run.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_LS.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 400</value>
+  </data>
+  <data name="comboBox_Format.Size" type="System.Drawing.Size, System.Drawing">
+    <value>145, 23</value>
+  </data>
+  <data name="&gt;&gt;label_Openhere.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textBox_LoopStart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>119, 397</value>
+  </data>
+  <data name="checkForUpdatesUToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>188, 22</value>
+  </data>
+  <data name="&gt;&gt;checkBox_LoopEnable.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_NStream.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="textBox_CustomVol.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="textBox_LoopEnd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>119, 422</value>
+  </data>
+  <data name="&gt;&gt;label_LE.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="&gt;&gt;label_Filename.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;label_version.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="comboBox_Volume.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;label_id_hex.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="label_NoInfo.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="label_Volume_Info.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_LE.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="label_id.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 122</value>
+  </data>
+  <data name="panel_Main.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 24</value>
+  </data>
+  <data name="&gt;&gt;label_Samplerate.Name" xml:space="preserve">
+    <value>label_Samplerate</value>
+  </data>
+  <data name="&gt;&gt;label_id.Name" xml:space="preserve">
+    <value>label_id</value>
+  </data>
+  <data name="fileFToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>54, 20</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1114, 520</value>
+  </data>
+  <data name="label_CustomVolHex.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="label_Totalstream.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="label_NoInfo.Text" xml:space="preserve">
+    <value>No Informations.</value>
+  </data>
+  <data name="&gt;&gt;label_Samplerate.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="&gt;&gt;openOToolStripMenuItem.Name" xml:space="preserve">
+    <value>openOToolStripMenuItem</value>
+  </data>
+  <data name="label_Channel_Info.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 15</value>
+  </data>
+  <data name="&gt;&gt;exitXToolStripMenuItem.Name" xml:space="preserve">
+    <value>exitXToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;label_CustomVol.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_LoopStart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_Volume_Info.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="label_id.Text" xml:space="preserve">
+    <value>STREAM_ID:</value>
+  </data>
+  <data name="exitXToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 9pt, style=Bold</value>
+  </data>
+  <data name="comboBox_Format.Items3" xml:space="preserve">
+    <value>*Unsigned Little Endian</value>
+  </data>
+  <data name="label_Filename.Size" type="System.Drawing.Size, System.Drawing">
+    <value>309, 30</value>
+  </data>
+  <data name="&gt;&gt;label_Samplerate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel_Main.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comboBox_version.Items" xml:space="preserve">
+    <value>[General] Version 2.1 (LE, PSP/PC)</value>
+  </data>
+  <data name="label_Samplerate.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label_OrigFilepath.Name" xml:space="preserve">
+    <value>label_OrigFilepath</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="textBox_LoopEnd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Disable</value>
+  </data>
+  <data name="label_Channel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>58, 15</value>
+  </data>
+  <data name="textBox_LoopStart.MaxLength" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label_Format.Size" type="System.Drawing.Size, System.Drawing">
+    <value>74, 15</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FormMain</value>
+  </data>
+  <data name="label_Channel.Text" xml:space="preserve">
+    <value>Channels:</value>
+  </data>
+  <data name="&gt;&gt;label_Totalstream.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;label_lsPosition.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="label_Channel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 323</value>
+  </data>
+  <data name="&gt;&gt;label_id_c.Name" xml:space="preserve">
+    <value>label_id_c</value>
+  </data>
+  <data name="&gt;&gt;closeCToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_id_c.Location" type="System.Drawing.Point, System.Drawing">
+    <value>228, 271</value>
+  </data>
+  <data name="&gt;&gt;label_version.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_lePosition.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 15</value>
+  </data>
+  <data name="label_Samplerate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 15</value>
+  </data>
+  <data name="label_version.Text" xml:space="preserve">
+    <value>nuSound Version:</value>
+  </data>
+  <data name="&gt;&gt;label_nos.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="textBox_nos.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="label_NStream.Location" type="System.Drawing.Point, System.Drawing">
+    <value>130, 122</value>
+  </data>
+  <data name="label_Openhere.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="closeCToolStripMenuItem.Text" xml:space="preserve">
+    <value>Close (&amp;C)</value>
+  </data>
+  <data name="textBox_id.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="comboBox_Samplerate.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="comboBox_Format.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 268</value>
+  </data>
+  <data name="&gt;&gt;checkForUpdatesUToolStripMenuItem.Name" xml:space="preserve">
+    <value>checkForUpdatesUToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;label_Filename.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="label_Openhere.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="button_Run.Size" type="System.Drawing.Size, System.Drawing">
+    <value>315, 45</value>
+  </data>
+  <data name="textBox_nos.MaxLength" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBox_id.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Samplerate.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="textBox_CustomVol.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Disable</value>
+  </data>
+  <data name="&gt;&gt;label_Volume_Info.Name" xml:space="preserve">
+    <value>label_Volume_Info</value>
+  </data>
+  <data name="&gt;&gt;label_version.Name" xml:space="preserve">
+    <value>label_version</value>
+  </data>
+  <data name="label_Totalstream.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 15</value>
+  </data>
+  <data name="label_Channel.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="label_Samplerate_Info.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 15</value>
+  </data>
+  <data name="&gt;&gt;checkBox_LoopEnable.Name" xml:space="preserve">
+    <value>checkBox_LoopEnable</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Channels.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_Volume_Info.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="label_Channel_Info.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>149, 6</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Format.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_version.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="label_OrigFilepath.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 42</value>
+  </data>
+  <data name="label_Volume.Text" xml:space="preserve">
+    <value>Volume:</value>
+  </data>
+  <data name="label_Volume.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="label_CustomVol.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="label_Filename.TabIndex" type="System.Int32, mscorlib">
+    <value>28</value>
+  </data>
+  <data name="&gt;&gt;textBox_id.Name" xml:space="preserve">
+    <value>textBox_id</value>
+  </data>
+  <data name="comboBox_Samplerate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 294</value>
+  </data>
+  <data name="checkBox_LoopEnable.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 19</value>
+  </data>
+  <data name="textBox_LoopStart.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Disable</value>
+  </data>
+  <data name="&gt;&gt;preferencesSToolStripMenuItem.Name" xml:space="preserve">
+    <value>preferencesSToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;label_LS.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="label_CustomVol.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label_id_hex.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label_lsPosition.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBox_version.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="&gt;&gt;label_LS.ZOrder" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <data name="label_OrigFilepath.Size" type="System.Drawing.Size, System.Drawing">
+    <value>309, 80</value>
+  </data>
+  <data name="&gt;&gt;textBox_id.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="&gt;&gt;label_lsPosition.Name" xml:space="preserve">
+    <value>label_lsPosition</value>
+  </data>
+  <data name="label_CustomVol.Location" type="System.Drawing.Point, System.Drawing">
+    <value>38, 375</value>
+  </data>
+  <data name="comboBox_Channels.Items4" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="comboBox_Channels.Size" type="System.Drawing.Size, System.Drawing">
+    <value>167, 23</value>
+  </data>
+  <data name="comboBox_Volume.Items1" xml:space="preserve">
+    <value>Normal (0x4080)</value>
+  </data>
+  <data name="&gt;&gt;comboBox_version.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox_LoopStart.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem2.Name" xml:space="preserve">
+    <value>toolStripMenuItem2</value>
+  </data>
+  <data name="label_Format.Text" xml:space="preserve">
+    <value>NUB Format:</value>
+  </data>
+  <data name="label_lePosition.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="checkForUpdatesUToolStripMenuItem.Text" xml:space="preserve">
+    <value>Check for updates (&amp;U)</value>
+  </data>
+  <data name="&gt;&gt;checkBox_LoopEnable.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="textBox_LoopEnd.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="comboBox_Volume.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 346</value>
+  </data>
+  <data name="label_LE.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="button_Run.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 451</value>
+  </data>
+  <data name="comboBox_Format.Items" xml:space="preserve">
+    <value>Signed Big Endian</value>
+  </data>
+  <data name="&gt;&gt;label_lePosition.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_Format.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="comboBox_Volume.Items2" xml:space="preserve">
+    <value>High (0x40C0)</value>
+  </data>
+  <data name="&gt;&gt;textBox_LoopEnd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_Samplerate.Text" xml:space="preserve">
+    <value>Samplerate:</value>
+  </data>
+  <data name="label_Filename.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="comboBox_Samplerate.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="comboBox_version.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;checkForUpdatesUToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_id_c.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="&gt;&gt;label_Volume_Info.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_lsPosition.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="textBox_nos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>249, 320</value>
+  </data>
+  <data name="&gt;&gt;label_Totalstream.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_Openhere.Size" type="System.Drawing.Size, System.Drawing">
+    <value>800, 496</value>
+  </data>
+  <data name="&gt;&gt;textBox_nos.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="comboBox_Samplerate.Items" xml:space="preserve">
+    <value>44100 Hz (Default)</value>
+  </data>
+  <data name="&gt;&gt;closeCToolStripMenuItem.Name" xml:space="preserve">
+    <value>closeCToolStripMenuItem</value>
+  </data>
+  <data name="label_Channel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_LE.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_Openhere.Text" xml:space="preserve">
+    <value>Drag and drop the corresponding file here
+or open the file...</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Format.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="&gt;&gt;label_Openhere.Parent" xml:space="preserve">
+    <value>panel_Main</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Volume.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="&gt;&gt;preferencesSToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_LE.Text" xml:space="preserve">
+    <value>LoopEnd Samples:</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Samplerate.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="&gt;&gt;label_LS.Name" xml:space="preserve">
+    <value>label_LS</value>
+  </data>
+  <data name="label_LS.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 15</value>
+  </data>
+  <data name="checkBox_LoopEnable.Location" type="System.Drawing.Point, System.Drawing">
+    <value>221, 349</value>
+  </data>
+  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1114, 24</value>
+  </data>
+  <data name="&gt;&gt;button_Run.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="&gt;&gt;label_Samplerate_Info.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="label_Samplerate.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label_CustomVol.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 15</value>
+  </data>
+  <data name="comboBox_Samplerate.Items1" xml:space="preserve">
+    <value>48000 Hz</value>
+  </data>
+  <data name="&gt;&gt;label_CustomVolHex.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_Samplerate_Info.Name" xml:space="preserve">
+    <value>label_Samplerate_Info</value>
+  </data>
+  <data name="textBox_LoopStart.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="label_Samplerate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 297</value>
+  </data>
+  <data name="comboBox_Volume.Items4" xml:space="preserve">
+    <value>Custom</value>
+  </data>
+  <data name="label_lsPosition.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;comboBox_version.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="helpHToolStripMenuItem.Text" xml:space="preserve">
+    <value>Help (&amp;H)</value>
+  </data>
+  <data name="textBox_nos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Disable</value>
+  </data>
+  <data name="panel_Control.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="&gt;&gt;label_id_c.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="label_Samplerate_Info.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="label_id.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;label_Channel_Info.Name" xml:space="preserve">
+    <value>label_Channel_Info</value>
+  </data>
+  <data name="textBox_nos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 23</value>
+  </data>
+  <data name="label_nos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 15</value>
+  </data>
+  <data name="&gt;&gt;label_nos_hex.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label_nos_hex.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label_OrigFilepath.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;label_Totalstream.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="&gt;&gt;label_id_c.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comboBox_Format.Items1" xml:space="preserve">
+    <value>Signed Little Endian</value>
+  </data>
+  <data name="button_Run.Text" xml:space="preserve">
+    <value>Convert</value>
+  </data>
+  <data name="button_Run.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;label_Channel_Info.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="label_nos_hex.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;label_id_hex.Name" xml:space="preserve">
+    <value>label_id_hex</value>
+  </data>
+  <data name="&gt;&gt;label_Openhere.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_nos.Name" xml:space="preserve">
+    <value>textBox_nos</value>
+  </data>
+  <data name="&gt;&gt;label_Volume_Info.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="&gt;&gt;label_Channel.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="&gt;&gt;label_Samplerate.ZOrder" xml:space="preserve">
+    <value>33</value>
+  </data>
+  <data name="label_id_c.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label_Volume.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="label_CustomVolHex.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 375</value>
+  </data>
+  <data name="&gt;&gt;label_NStream.Name" xml:space="preserve">
+    <value>label_NStream</value>
+  </data>
+  <data name="&gt;&gt;panel_Main.Name" xml:space="preserve">
+    <value>panel_Main</value>
+  </data>
+  <data name="&gt;&gt;label_Format.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_Volume.Location" type="System.Drawing.Point, System.Drawing">
+    <value>26, 349</value>
+  </data>
+  <data name="&gt;&gt;fileFToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="toolStripMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>185, 6</value>
+  </data>
+  <data name="label_Volume_Info.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 198</value>
+  </data>
+  <data name="&gt;&gt;label_NoInfo.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Channels.ZOrder" xml:space="preserve">
+    <value>34</value>
+  </data>
+  <data name="textBox_LoopEnd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>193, 23</value>
+  </data>
+  <data name="button_Run.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="label_LS.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_lsPosition.Text" xml:space="preserve">
+    <value>LOOP_START:</value>
+  </data>
+  <data name="&gt;&gt;helpHToolStripMenuItem.Name" xml:space="preserve">
+    <value>helpHToolStripMenuItem</value>
+  </data>
+  <data name="label_lsPosition.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="label_Format.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_CustomVolHex.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 15</value>
+  </data>
+  <data name="&gt;&gt;label_Channel.ZOrder" xml:space="preserve">
+    <value>35</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Channels.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="label_nos_hex.Text" xml:space="preserve">
+    <value>0x1</value>
+  </data>
+  <data name="label_Channel_Info.Location" type="System.Drawing.Point, System.Drawing">
+    <value>194, 198</value>
+  </data>
+  <data name="label_id_hex.Location" type="System.Drawing.Point, System.Drawing">
+    <value>281, 271</value>
+  </data>
+  <data name="comboBox_Channels.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 320</value>
+  </data>
+  <data name="label_id_hex.Size" type="System.Drawing.Size, System.Drawing">
+    <value>25, 15</value>
+  </data>
+  <data name="label_LS.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="label_Totalstream.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_Volume_Info.Size" type="System.Drawing.Size, System.Drawing">
+    <value>57, 15</value>
+  </data>
+  <data name="preferencesSToolStripMenuItem.Text" xml:space="preserve">
+    <value>Preferences (&amp;S)</value>
+  </data>
+  <data name="&gt;&gt;label_Format.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="label_LS.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="label_CustomVol.Text" xml:space="preserve">
+    <value>Volume (dec):</value>
+  </data>
+  <data name="&gt;&gt;label_id_hex.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_nos.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="label_LE.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 425</value>
+  </data>
+  <data name="&gt;&gt;label_nos_hex.Name" xml:space="preserve">
+    <value>label_nos_hex</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Samplerate.Name" xml:space="preserve">
+    <value>comboBox_Samplerate</value>
+  </data>
+  <data name="label_Samplerate_Info.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="fileFToolStripMenuItem.Text" xml:space="preserve">
+    <value>File (&amp;F)</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Samplerate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_LoopStart.Name" xml:space="preserve">
+    <value>textBox_LoopStart</value>
+  </data>
+  <data name="label_lsPosition.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 159</value>
+  </data>
+  <data name="&gt;&gt;textBox_LoopStart.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="checkBox_LoopEnable.Text" xml:space="preserve">
+    <value>Enable Loop</value>
+  </data>
+  <data name="label_id_hex.Text" xml:space="preserve">
+    <value>0x0</value>
+  </data>
+  <data name="label_Filename.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 0</value>
+  </data>
+  <data name="panel_Control.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;panel_Control.Name" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="label_Totalstream.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="openOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 22</value>
+  </data>
+  <data name="&gt;&gt;label_Channel_Info.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem1.Name" xml:space="preserve">
+    <value>toolStripMenuItem1</value>
+  </data>
+  <data name="exitXToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 22</value>
+  </data>
+  <data name="&gt;&gt;label_nos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_version.Size" type="System.Drawing.Size, System.Drawing">
+    <value>99, 15</value>
+  </data>
+  <data name="panel_Control.Location" type="System.Drawing.Point, System.Drawing">
+    <value>799, 24</value>
+  </data>
+  <data name="checkBox_LoopEnable.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label_lePosition.Name" xml:space="preserve">
+    <value>label_lePosition</value>
+  </data>
+  <data name="comboBox_Volume.Items" xml:space="preserve">
+    <value>Low (0x3F00)</value>
+  </data>
+  <data name="&gt;&gt;label_Openhere.Name" xml:space="preserve">
+    <value>label_Openhere</value>
+  </data>
+  <data name="&gt;&gt;label_lePosition.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="panel_Control.Size" type="System.Drawing.Size, System.Drawing">
+    <value>315, 496</value>
+  </data>
+  <data name="panel_Main.Size" type="System.Drawing.Size, System.Drawing">
+    <value>799, 496</value>
+  </data>
+  <data name="&gt;&gt;label_Channel.Name" xml:space="preserve">
+    <value>label_Channel</value>
+  </data>
+  <data name="&gt;&gt;panel_Control.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label_Filename.Text" xml:space="preserve">
+    <value>FILE_NAME:</value>
+  </data>
+  <data name="&gt;&gt;textBox_id.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label_NStream.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="openOToolStripMenuItem.Text" xml:space="preserve">
+    <value>Open (&amp;O)</value>
+  </data>
+  <data name="textBox_LoopEnd.MaxLength" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="comboBox_Volume.Items3" xml:space="preserve">
+    <value>Ultra (0x4100)</value>
+  </data>
+  <data name="comboBox_version.Size" type="System.Drawing.Size, System.Drawing">
+    <value>213, 23</value>
+  </data>
+  <data name="label_Volume.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 15</value>
+  </data>
+  <data name="&gt;&gt;label_Totalstream.Name" xml:space="preserve">
+    <value>label_Totalstream</value>
+  </data>
+  <data name="&gt;&gt;comboBox_version.Name" xml:space="preserve">
+    <value>comboBox_version</value>
+  </data>
+  <data name="label_NoInfo.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 20.25pt</value>
+  </data>
+  <data name="label_Totalstream.Text" xml:space="preserve">
+    <value>TOTAL_STREAM:</value>
+  </data>
+  <data name="label_lePosition.Text" xml:space="preserve">
+    <value>LOOP_END:</value>
+  </data>
+  <data name="label_NStream.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="&gt;&gt;label_Channel_Info.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;label_Format.Name" xml:space="preserve">
+    <value>label_Format</value>
+  </data>
+  <data name="label_NStream.Size" type="System.Drawing.Size, System.Drawing">
+    <value>133, 15</value>
+  </data>
+  <data name="&gt;&gt;label_NoInfo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label_id_c.Size" type="System.Drawing.Size, System.Drawing">
+    <value>21, 15</value>
+  </data>
+  <data name="label_nos.Text" xml:space="preserve">
+    <value>Number of Streams:</value>
+  </data>
+  <data name="&gt;&gt;label_Volume.Name" xml:space="preserve">
+    <value>label_Volume</value>
+  </data>
+  <data name="closeCToolStripMenuItem.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;label_NStream.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_OrigFilepath.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_CustomVolHex.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="label_version.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="label_Channel_Info.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Channels.Name" xml:space="preserve">
+    <value>comboBox_Channels</value>
+  </data>
+  <data name="&gt;&gt;textBox_CustomVol.Name" xml:space="preserve">
+    <value>textBox_CustomVol</value>
+  </data>
+  <data name="&gt;&gt;label_LE.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="&gt;&gt;label_LS.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="menuStrip1.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="button_Run.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 15.75pt, style=Bold</value>
+  </data>
+  <data name="label_id.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 15</value>
+  </data>
+  <data name="label_nos_hex.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="label_version.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label_Samplerate_Info.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_CustomVolHex.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="comboBox_version.Location" type="System.Drawing.Point, System.Drawing">
+    <value>99, 242</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Format.Name" xml:space="preserve">
+    <value>comboBox_Format</value>
+  </data>
+  <data name="comboBox_Channels.Items3" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label_Samplerate.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="label_lePosition.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label_lePosition.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="label_Samplerate_Info.Text" xml:space="preserve">
+    <value>SAMPLE_LATE:</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>NUBTool</value>
+  </data>
+  <data name="&gt;&gt;button_Run.ZOrder" xml:space="preserve">
+    <value>32</value>
+  </data>
+  <data name="&gt;&gt;textBox_nos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="helpHToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 20</value>
+  </data>
+  <data name="label_LE.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 15</value>
+  </data>
+  <data name="&gt;&gt;label_Volume.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comboBox_Channels.Items5" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Format.ZOrder" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Volume.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="textBox_CustomVol.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;label_nos_hex.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_Format.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 271</value>
+  </data>
+  <data name="&gt;&gt;aboutAToolStripMenuItem.Name" xml:space="preserve">
+    <value>aboutAToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;panel_Control.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_nos.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;checkBox_LoopEnable.ZOrder" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <data name="aboutAToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>188, 22</value>
+  </data>
+  <data name="label_OrigFilepath.Text" xml:space="preserve">
+    <value>FILE_PATH:</value>
+  </data>
+  <data name="label_lsPosition.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="textBox_nos.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="label_OrigFilepath.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="comboBox_Format.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="comboBox_Volume.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 23</value>
+  </data>
+  <data name="comboBox_version.Items1" xml:space="preserve">
+    <value>[General] Version 2.1 (not LE)</value>
+  </data>
+  <data name="&gt;&gt;label_Filename.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_Openhere.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="comboBox_Channels.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;textBox_LoopEnd.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="label_lsPosition.Size" type="System.Drawing.Size, System.Drawing">
+    <value>78, 15</value>
+  </data>
+  <data name="&gt;&gt;label_id.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="label_id_hex.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="preferencesSToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 22</value>
+  </data>
+  <data name="&gt;&gt;label_NStream.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="textBox_CustomVol.Location" type="System.Drawing.Point, System.Drawing">
+    <value>119, 372</value>
+  </data>
+  <data name="&gt;&gt;label_Format.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="&gt;&gt;label_Samplerate_Info.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="textBox_id.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Disable</value>
+  </data>
+  <data name="checkBox_LoopEnable.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="textBox_id.Location" type="System.Drawing.Point, System.Drawing">
+    <value>249, 268</value>
+  </data>
+  <data name="&gt;&gt;label_nos.Name" xml:space="preserve">
+    <value>label_nos</value>
+  </data>
+  <data name="label_id_hex.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;label_CustomVol.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="&gt;&gt;panel_Control.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBox_LoopEnd.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="textBox_LoopStart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>193, 23</value>
+  </data>
+  <data name="label_lePosition.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 179</value>
+  </data>
+  <data name="label_Channel.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="panel_Main.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Volume.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_version.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 245</value>
+  </data>
+  <data name="&gt;&gt;label_NoInfo.Name" xml:space="preserve">
+    <value>label_NoInfo</value>
+  </data>
+  <data name="label_id_c.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="comboBox_Channels.Items2" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label_id.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="textBox_CustomVol.MaxLength" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;button_Run.Name" xml:space="preserve">
+    <value>button_Run</value>
+  </data>
+  <data name="label_version.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="textBox_id.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="label_lePosition.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label_NStream.Text" xml:space="preserve">
+    <value>NUMBER_OF_STREAMS:</value>
+  </data>
+  <data name="&gt;&gt;label_NStream.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;comboBox_Volume.Name" xml:space="preserve">
+    <value>comboBox_Volume</value>
+  </data>
+  <data name="&gt;&gt;label_CustomVol.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="comboBox_Channels.Items" xml:space="preserve">
+    <value>1 (mono)</value>
+  </data>
+  <data name="comboBox_Format.Items2" xml:space="preserve">
+    <value>*Unsigned Big Endian</value>
+  </data>
+  <data name="label_Openhere.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="label_Volume.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;label_OrigFilepath.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="comboBox_Channels.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="label_LS.Text" xml:space="preserve">
+    <value>LoopStart Samples:</value>
+  </data>
+  <data name="&gt;&gt;label_CustomVol.Name" xml:space="preserve">
+    <value>label_CustomVol</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comboBox_Format.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;label_Filename.Name" xml:space="preserve">
+    <value>label_Filename</value>
+  </data>
+  <data name="&gt;&gt;panel_Main.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label_nos_hex.Location" type="System.Drawing.Point, System.Drawing">
+    <value>281, 323</value>
+  </data>
+  <data name="&gt;&gt;label_id.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_Volume_Info.Text" xml:space="preserve">
+    <value>VOLUME:</value>
+  </data>
+  <data name="label_Format.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;label_LE.Name" xml:space="preserve">
+    <value>label_LE</value>
+  </data>
+  <data name="&gt;&gt;label_nos_hex.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="label_id_c.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="panel_Main.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="label_CustomVol.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;label_NoInfo.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="label_Samplerate_Info.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 217</value>
+  </data>
+  <data name="&gt;&gt;textBox_CustomVol.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="label_id.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;panel_Main.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label_OrigFilepath.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;textBox_CustomVol.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="label_nos_hex.Size" type="System.Drawing.Size, System.Drawing">
+    <value>25, 15</value>
+  </data>
+  <data name="textBox_CustomVol.Size" type="System.Drawing.Size, System.Drawing">
+    <value>44, 23</value>
+  </data>
+  <data name="checkBox_LoopEnable.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="textBox_id.MaxLength" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label_Volume.ZOrder" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <data name="label_nos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>204, 297</value>
+  </data>
+  <data name="&gt;&gt;textBox_LoopStart.Parent" xml:space="preserve">
+    <value>panel_Control</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_NoInfo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>48, 94</value>
+  </data>
+  <data name="comboBox_Channels.Items1" xml:space="preserve">
+    <value>2 (stereo)</value>
+  </data>
+  <data name="&gt;&gt;label_CustomVolHex.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="closeCToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 22</value>
+  </data>
+  <data name="comboBox_version.Items2" xml:space="preserve">
+    <value>[Specific] Version 2.0 (Xbox360, etcs)</value>
+  </data>
+  <data name="label_Totalstream.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 140</value>
+  </data>
+  <data name="label_Volume.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;exitXToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="label_CustomVolHex.Text" xml:space="preserve">
+    <value>Hex: 0x0</value>
+  </data>
+  <data name="textBox_id.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 23</value>
+  </data>
+  <data name="&gt;&gt;label_CustomVolHex.Name" xml:space="preserve">
+    <value>label_CustomVolHex</value>
+  </data>
+  <data name="label_NoInfo.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label_LE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox_nos.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;label_Channel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_id_hex.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="button_Run.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="&gt;&gt;textBox_LoopEnd.Name" xml:space="preserve">
+    <value>textBox_LoopEnd</value>
+  </data>
+  <data name="comboBox_Samplerate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 23</value>
+  </data>
+  <data name="textBox_LoopEnd.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="label_id_c.Text" xml:space="preserve">
+    <value>ID:</value>
+  </data>
+  <data name="comboBox_Volume.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="aboutAToolStripMenuItem.Text" xml:space="preserve">
+    <value>About (&amp;A)</value>
+  </data>
+  <data name="label_Channel_Info.Text" xml:space="preserve">
+    <value>CHANNELS:</value>
+  </data>
+  <data name="label_nos.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+</root>

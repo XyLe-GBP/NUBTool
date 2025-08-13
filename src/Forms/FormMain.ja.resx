@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema 
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="fileFToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 20</value>
+  </data>
+  <data name="fileFToolStripMenuItem.Text" xml:space="preserve">
+    <value>ファイル (&amp;F)</value>
+  </data>
+  <data name="helpHToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 20</value>
+  </data>
+  <data name="helpHToolStripMenuItem.Text" xml:space="preserve">
+    <value>ヘルプ (&amp;H)</value>
+  </data>
+  <data name="openOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>122, 22</value>
+  </data>
+  <data name="openOToolStripMenuItem.Text" xml:space="preserve">
+    <value>開く (&amp;O)</value>
+  </data>
+  <data name="closeCToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>122, 22</value>
+  </data>
+  <data name="closeCToolStripMenuItem.Text" xml:space="preserve">
+    <value>閉じる (&amp;C)</value>
+  </data>
+  <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 6</value>
+  </data>
+  <data name="preferencesSToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>122, 22</value>
+  </data>
+  <data name="preferencesSToolStripMenuItem.Text" xml:space="preserve">
+    <value>設定 (&amp;S)</value>
+  </data>
+  <data name="exitXToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>122, 22</value>
+  </data>
+  <data name="exitXToolStripMenuItem.Text" xml:space="preserve">
+    <value>終了 (&amp;X)</value>
+  </data>
+  <data name="aboutAToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>151, 22</value>
+  </data>
+  <data name="toolStripMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>148, 6</value>
+  </data>
+  <data name="checkForUpdatesUToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>151, 22</value>
+  </data>
+  <data name="checkForUpdatesUToolStripMenuItem.Text" xml:space="preserve">
+    <value>更新の確認 (&amp;U)</value>
+  </data>
+  <data name="label_LS.Location" type="System.Drawing.Point, System.Drawing">
+    <value>-1, 400</value>
+  </data>
+  <data name="label_LS.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 15</value>
+  </data>
+  <data name="label_LS.Text" xml:space="preserve">
+    <value>ループ開始サンプル値：</value>
+  </data>
+  <data name="label_LE.Location" type="System.Drawing.Point, System.Drawing">
+    <value>-1, 425</value>
+  </data>
+  <data name="label_LE.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 15</value>
+  </data>
+  <data name="label_LE.Text" xml:space="preserve">
+    <value>ループ終了サンプル値：</value>
+  </data>
+  <data name="checkBox_LoopEnable.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 19</value>
+  </data>
+  <data name="checkBox_LoopEnable.Text" xml:space="preserve">
+    <value>ループ有効</value>
+  </data>
+  <data name="label_Channel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 323</value>
+  </data>
+  <data name="label_Channel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 15</value>
+  </data>
+  <data name="label_Channel.Text" xml:space="preserve">
+    <value>チャンネル数：</value>
+  </data>
+  <data name="comboBox_Channels.Items" xml:space="preserve">
+    <value>1 (モノラル)</value>
+  </data>
+  <data name="comboBox_Channels.Items1" xml:space="preserve">
+    <value>2 (ステレオ)</value>
+  </data>
+  <data name="button_Run.Text" xml:space="preserve">
+    <value>変換</value>
+  </data>
+  <data name="comboBox_Volume.Items" xml:space="preserve">
+    <value>低め (0x3F00)</value>
+  </data>
+  <data name="comboBox_Volume.Items1" xml:space="preserve">
+    <value>標準的 (0x4080)</value>
+  </data>
+  <data name="comboBox_Volume.Items2" xml:space="preserve">
+    <value>高め (0x40C0)</value>
+  </data>
+  <data name="comboBox_Volume.Items3" xml:space="preserve">
+    <value>超高音量 (0x4100)</value>
+  </data>
+  <data name="comboBox_Volume.Items4" xml:space="preserve">
+    <value>カスタム</value>
+  </data>
+  <data name="label_Volume.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 349</value>
+  </data>
+  <data name="label_Volume.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 15</value>
+  </data>
+  <data name="label_Volume.Text" xml:space="preserve">
+    <value>NUBの音量：</value>
+  </data>
+  <data name="label_Samplerate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 297</value>
+  </data>
+  <data name="label_Samplerate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>55, 15</value>
+  </data>
+  <data name="label_Samplerate.Text" xml:space="preserve">
+    <value>周波数：</value>
+  </data>
+  <data name="comboBox_Samplerate.Items" xml:space="preserve">
+    <value>44100 Hz (デフォルト)</value>
+  </data>
+  <data name="comboBox_version.Items" xml:space="preserve">
+    <value>[一般] バージョン 2.1 (LE版, PSP/PC)</value>
+  </data>
+  <data name="comboBox_version.Items1" xml:space="preserve">
+    <value>[一般] バージョン 2.1 (非LE)</value>
+  </data>
+  <data name="comboBox_version.Items2" xml:space="preserve">
+    <value>[特殊] バージョン 2.0 (Xbox360, その他)</value>
+  </data>
+  <data name="label_NoInfo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 94</value>
+  </data>
+  <data name="label_NoInfo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>199, 37</value>
+  </data>
+  <data name="label_NoInfo.Text" xml:space="preserve">
+    <value>情報がありません</value>
+  </data>
+  <data name="label_CustomVolHex.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 15</value>
+  </data>
+  <data name="label_CustomVolHex.Text" xml:space="preserve">
+    <value>16進数値： 0x0</value>
+  </data>
+  <data name="label_CustomVol.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 375</value>
+  </data>
+  <data name="label_CustomVol.Size" type="System.Drawing.Size, System.Drawing">
+    <value>99, 15</value>
+  </data>
+  <data name="label_CustomVol.Text" xml:space="preserve">
+    <value>音量値(10進数)：</value>
+  </data>
+  <data name="label_Format.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 271</value>
+  </data>
+  <data name="label_Format.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 15</value>
+  </data>
+  <data name="label_Format.Text" xml:space="preserve">
+    <value>NUBの形式：</value>
+  </data>
+  <data name="label_Openhere.Text" xml:space="preserve">
+    <value>ここにファイルをドラッグアンドドロップしてください
+もしくは、ファイルを開いてください…</value>
+  </data>
+</root>
